@@ -14,14 +14,14 @@ export const successStories = [
   },
   {
     id: 2,
-    title: "Abu Dhabi World Summer Games",
+    title: "donation and support",
     subtitle: "Para-Athletes Making India Proud",
-    category: "sports",
+    category: "donation",
     image: "/images/success-stories/story-2.jpg",
     summary:
-      "BWC athletes with visual impairment attained great heights at the Abu Dhabi World Summer Games, winning multiple medals and showcasing extraordinary talent.",
+      "bwd provided donation and support to visually impaired athletes, enabling them to compete at the Abu Dhabi World Summer Games and achieve international recognition.",
     content:
-      "The Abu Dhabi World Summer Games was a watershed moment for BWC Vadodara's sports program. A team of visually impaired athletes from our organization competed in athletics events. Their journey — from humble beginnings in Vadodara's district competitions to the global stage — exemplifies what proper support and training can accomplish. The team returned with multiple medals and, more importantly, the confidence to pursue their dreams further.",
+      "the donation and support from BWC Vadodara played a crucial role in the success of our visually impaired athletes. With financial assistance, specialized training, and access to adaptive sports equipment, they were able to prepare for the Abu Dhabi World Summer Games. Their dedication and hard work culminated in winning multiple medals, bringing pride to India and inspiring other visually impaired individuals to pursue sports.",
     achievements: ["Multiple medals at Abu Dhabi World Games", "National-level para-athletics champions", "Featured in regional media"],
     featured: true,
   },
