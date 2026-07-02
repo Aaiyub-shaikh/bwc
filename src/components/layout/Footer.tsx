@@ -9,7 +9,11 @@ import {
 import { Facebook, Twitter, Instagram, Youtube, Linkedin } from "@/components/ui/SocialIcons";
 import { siteConfig } from "@/data/siteConfig";
 
-export default function Footer() {
+interface FooterProps {
+  showDonateButton?: boolean;
+}
+
+export default function Footer({ showDonateButton = true }: FooterProps) {
   const quickLinks = [
     { label: "Home", href: "/" },
     { label: "About Us", href: "/about" },
@@ -133,13 +137,15 @@ export default function Footer() {
                 </a>
               </li>
             </ul>
-            <Link
-              href="/donate"
-              className="btn-primary mt-6 inline-flex text-sm"
-            >
-              <Heart size={14} fill="currentColor" />
-              Support Our Mission
-            </Link>
+            {showDonateButton && (
+              <Link
+                href="/donate"
+                className="btn-primary mt-6 inline-flex text-sm"
+              >
+                <Heart size={14} fill="currentColor" />
+                Support Our Mission
+              </Link>
+            )}
           </div>
         </div>
       </div>

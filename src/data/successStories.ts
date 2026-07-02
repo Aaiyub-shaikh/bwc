@@ -1,14 +1,14 @@
 export const successStories = [
   {
     id: 1,
-    title: "International Sports Achievement",
+    title: "meeting of blind people",
     subtitle: "Germany Medal Winners",
-    category: "sports",
+    category: "meeting",
     image: "/images/success-stories/story-1.jpg",
     summary:
-      "Our athletes participated in the World Summer Games organised by Special Olympics in June 2023 at Berlin, Germany, bringing glory to India with outstanding performances.",
+      "blind welfare council organize meeting of blind people and guides the peoples to the right path and also provide them the proper guidance and support to achieve their goals.",
     content:
-      "In a remarkable display of athletic excellence, three of our visually impaired athletes traveled to Berlin, Germany for the Special Olympics World Summer Games 2023. Despite coming from rural backgrounds and training with limited resources, they competed against athletes from over 190 countries. Their determination and months of rigorous training paid off as they secured medals and returned as national heroes. This achievement inspired hundreds of other students at BWC Vadodara to pursue sports as a path to recognition and self-sufficiency.",
+      "in a meeting of blind people, our council organized a special platform to share the inspiring stories of visually impaired individuals who have achieved remarkable success. The event featured motivational talks, skill demonstrations, and networking opportunities. Attendees were encouraged to pursue their passions and overcome challenges, with the council providing resources and mentorship to help them reach their full potential.",
     achievements: ["3 medals at Special Olympics World Games 2023", "Represented India internationally", "State champions before selection"],
     featured: true,
   },
@@ -27,14 +27,14 @@ export const successStories = [
   },
   {
     id: 3,
-    title: "Mahek's Journey",
+    title: "Athlete Training and Education",
     subtitle: "Overcoming Every Obstacle",
     category: "education",
     image: "/images/success-stories/story-3.jpg",
     summary:
-      "Born premature and affected by ROP (Retinopathy of Prematurity), Mahek lost her vision, speech, and faced multiple disabilities — but found her voice and future through BWC.",
+      "blind welfare council provide athelete training and education to visually impaired students, who excelled in both academics and sports, becoming a role model for others.",
     content:
-      "Mahek was born as a premature child in the seventh month. Due to oxygen toxicity caused by excessive supply of oxygen, she suffered from R.O.P. (Retinopathy of Prematurity). She lost her vision, speech, and developed multiple other challenges. When her family discovered BWC Vadodara, they found not just an institution but a community of hope. Through patient teaching, assistive technology, and a nurturing environment, Mahek learned braille, developed communication skills, and eventually enrolled in mainstream academic programs. Her story moves everyone who hears it — a testament to the power of inclusive education.",
+      "In a remarkable display of athletic excellence, three of our visually impaired athletes traveled to Berlin, Germany for the Special Olympics World Summer Games 2023. Despite coming from rural backgrounds and training with limited resources, they competed against athletes from over 190 countries. Their determination and months of rigorous training paid off as they secured medals and returned as national heroes. This achievement inspired hundreds of other students at BWC Vadodara to pursue sports as a path to recognition and self-sufficiency.",
     achievements: ["Learned Braille literacy", "Developed communication skills", "Enrolled in mainstream education"],
     featured: true,
   },

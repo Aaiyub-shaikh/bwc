@@ -9,17 +9,17 @@ const causes = [
   {
     id: "education",
     image: "/images/gallery/gallery-02.jpg",
-    title: "Education & Training",
+    title: "Sports & Education",
     description:
-      "Skill development, braille education, vocational training, and inclusive learning for visually impaired students of all ages. We believe education is the most powerful tool for transformation.",
+      "Blind Welfare Council supports visually impaired athletes at district, state, national, and international levels. Our students have brought medals from the Special Olympics and world games.",
     link: "/activities#education",
   },
   {
     id: "sports",
     image: "/images/gallery/gallery-03.jpg",
-    title: "Sports Activities",
+    title: "Donation & Support",
     description:
-      "Blind Welfare Council supports visually impaired athletes at district, state, national, and international levels. Our students have brought medals from the Special Olympics and world games.",
+      "Blind Welfare Council supports visually impaired people through various donation and support programs. Your contributions help us provide essential resources and opportunities for their growth and development.",
     link: "/activities#sports",
   },
   {
