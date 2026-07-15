@@ -40,7 +40,7 @@ export const successStories = [
   },
   {
     id: 4,
-    title: "Rajesh Finds Employment",
+    title: "blind people Finds Employment",
     subtitle: "From Welfare to Workforce",
     category: "employment",
     image: "/images/success-stories/story-4.jpg",
@@ -66,7 +66,7 @@ export const successStories = [
   },
   {
     id: 6,
-    title: "Craft Entrepreneurship",
+    title: "Entrepreneurship",
     subtitle: "Weaving a Livelihood",
     category: "employment",
     image: "/images/success-stories/story-6.jpg",
