@@ -6,7 +6,7 @@ export const successStories = [
     category: "meeting",
     image: "/images/success-stories/story-1.jpg",
     summary:
-      "blind welfare council organize meeting of blind people and guides the peoples to the right path and also provide them the proper guidance and support to achieve their goals.",
+      "blind welfare council organize meeting of blind peoples and guides the peoples to the right path and also provide them the proper guidance and support to achieve their goals.",
     content:
       "in a meeting of blind people, our council organized a special platform to share the inspiring stories of visually impaired individuals who have achieved remarkable success. The event featured motivational talks, skill demonstrations, and networking opportunities. Attendees were encouraged to pursue their passions and overcome challenges, with the council providing resources and mentorship to help them reach their full potential.",
     achievements: ["3 medals at Special Olympics World Games 2023", "Represented India internationally", "State champions before selection"],
